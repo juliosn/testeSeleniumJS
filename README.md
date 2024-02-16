@@ -8,22 +8,22 @@
 
 ![dsa](https://github.com/juliosn/testeSeleniumJS/assets/99426563/495e9f54-6954-4ecf-81fc-0ed57f490302)
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um teste unitário com javascript. O teste em si seria pesquisar um repositório seu no google e ao encontrá-lo (ou não) redirecionar a pessoa para a página em si. No exemplo acima, o repositório não foi encontrado
+> Academic project carried out in 2023 that consists of the creation of a unit test with javascript. The test itself would be to search for a repository of yours on google and when you find it (or not) redirect the person to the page itself. In the example above, the repository was not found.
 
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Before you begin, make sure you've met the following requirements:
 
-- Possuir a versão mais recente do NPM (Node Package Manager)
-- Possuir o browser 'Google Chrome'
+- Download the latest version of NPM (Node Package Manager)
+- Use the 'Google Chrome' browser
 
-## ☕ Usando testeSeleniumJS
+## ☕ Using SeleniumJS test
 
-Para usar testeSeleniumJS, siga estas etapas:
+To use SeleniumJS test, follow these steps:
 
-- Realizar o download do projeto - https://github.com/juliosn/testeSeleniumJS/
-- Acessar o diretório do projeto com o prompt de comando
-- Utilizar o comando - npm init
-- Utilizar o comando - npm install
-- Utilizar o comando - node script.js
+- Download the project - https://github.com/juliosn/testeSeleniumJS/
+- Access the project directory with the command prompt
+- Use the - 'npm init' command
+- Use the - 'npm install' command
+- Use the - 'node script.js' command
